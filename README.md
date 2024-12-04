@@ -62,7 +62,7 @@ The MERN Blog App is a full-stack blogging application built using the MERN stac
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/DeveloperWilliams/MERN-Blog-App.git
+   git clone https://github.com/0sheetalkumari0/Blog_Platform.git
    cd mern-blog-app
 
    ```
